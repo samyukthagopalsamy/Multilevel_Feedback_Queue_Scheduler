@@ -27,7 +27,7 @@ for(i=0;i<n;i++)
 
 int main()
 {
-     int i,j,k=0,l,r=0,time=0,sum_bt=0,tq1=5,tq2=8,flag=0;
+     int i,j,k=0,r=0,time=0,tq1=5,tq2=8,flag=0;
      char c;
      printf("Enter no of processes:");
      scanf("%d",&n);
