@@ -1,4 +1,4 @@
-# Multilevel-feedback-queue-scheduler
+# Multilevel feedback queue scheduler
 C program to simulate multilevel feedback queue scheduler
 
 Multi-level feedback queue scheduler Q consists of 3 linear queues, i.e., Q1, Q2, and Q3.
